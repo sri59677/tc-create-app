@@ -5,7 +5,7 @@
 
 https://create.translationcore.com
 
-# Development and Deployment Process
+# Development and Deployment Process 2
 
 ## Changes completed: 
 - Github: `develop` branch created and made default on `tc-create-app` repo.
